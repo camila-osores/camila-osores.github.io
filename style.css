@@ -80,6 +80,21 @@
     min-height: 500px;
 }
 
+.icon_proy {
+    font-size: 23px !important;
+}
+
+.text_proy {
+    font-size: 15px;
+}
+
+.icon_firebase {
+    padding-top: 7px;
+    width: 7%;
+    height: 7%;
+    opacity: 0.7;
+}
+
 @media (max-width: 767px) {
     .proy {
         height: auto;
@@ -87,7 +102,7 @@
 }
 
 
-/* ESTILOS PARA PROYECTOS 2 */
+/* ESTILOS PARA PROYECTOS */
 
 @import url(https://fonts.googleapis.com/css?family=Raleway:300);
 @import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
@@ -223,7 +238,7 @@
 }
 
 
-/* FIN ESTILOS PROYECTOS 2 */
+/* FIN ESTILOS PROYECTOS */
 
 
 /* ESTILOS PARA PIE DE PÁGINA */
